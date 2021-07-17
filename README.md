@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi, I'm Hadrian! :shipit:
+___
+  const devHadrian = {
+  code: [HTML, CSS, JavaScript],
+  others: [security, ux-ui]
+}
 <!--
 **devHadrian/devHadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
